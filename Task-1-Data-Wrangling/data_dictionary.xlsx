@@ -1,0 +1,5 @@
+| Column Name | Data Type | Description            |
+| ----------- | --------- | ---------------------- |
+| ID          | Integer   | Unique customer ID     |
+| Year_Birth  | Integer   | Birth year of customer |
+| Income      | Float     | Annual income          |
