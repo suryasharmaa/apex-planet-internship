@@ -116,7 +116,7 @@ GitHub:
 https://github.com/suryasharmaa
 
 LinkedIn:
-(Add your LinkedIn profile link)
+https://www.linkedin.com/in/suryaprakashaiml?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
